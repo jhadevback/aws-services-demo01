@@ -1,5 +1,7 @@
 # AWS JAVA USO DE SERVICIOS
 
+![alt text](assets/images/screenshot.png)
+
 ## Description
 
 Proyecto donde se hace uso de algunos servicios de aws:

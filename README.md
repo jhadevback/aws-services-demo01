@@ -1,8 +1,8 @@
-# <Your-Project-Title>
+# AWS JAVA USO DE SERVICIOS
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+Proyecto donde se hace uso de algunos servicios de aws:
 
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")

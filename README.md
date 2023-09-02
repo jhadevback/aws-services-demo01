@@ -6,14 +6,12 @@
 
 Proyecto donde se hace uso de algunos servicios de aws:
 
-- Se uso beanstalk para el despliegue proyecto demo-clientes
+- Se uso beanstalk para el despliegue proyecto demo-clientes, recomienda pasar la el .properties a un .yml
 - El motor de base de datos usado fue MySql
-- El proyecto aws lambda fue realizado con java. 
+- El proyecto aws lambda fue realizado con java JDBC. 
 - No se uso un archivo CloudFormation para la creacion de servicios, por lo cual se creo todo a traves de la plataforma aws.
 
 ## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Usage](#usage)
